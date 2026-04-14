@@ -8,3 +8,5 @@
 **- 01.** create SpatialData object from Xenium output folders and format tables (anndata) with Seurat metadata  
 **- 02.**     
 **- 03.**      
+
+**Packages used**    
