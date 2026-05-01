@@ -10,7 +10,8 @@
 **- 03.**      
 
 **Packages used**    
------       
+
+ 
 anndata             0.12.0       
 geopandas           1.1.2       
 matplotlib          3.10.8     
@@ -27,7 +28,8 @@ spatialdata_io      0.6.0
 spatialdata_plot    0.2.14   
 squidpy             1.8.1   
 tifffile            2026.2.24   
------   
+
+
 Modules imported as dependencies    
 CoreFoundation              NA   
 Foundation                  NA  
@@ -185,14 +187,16 @@ zarr                        3.1.5
 zipp                        NA  
 zmq                         27.1.0  
 zoneinfo                    NA  
------     
+
+     
 IPython             9.10.0  
 jupyter_client      8.8.0  
 jupyter_core        5.9.1  
 jupyterlab          4.5.5  
 notebook            7.5.4  
------    
+    
 Python 3.11.14 | packaged by conda-forge | (main, Jan 27 2026, 00:01:01) [Clang 19.1.7 ]   
 macOS-26.3.1-arm64-i386-64bit   
------  
+
+
 Session information updated at 2026-05-01 13:22   
